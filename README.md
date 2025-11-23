@@ -9,6 +9,16 @@
 
 # 💻 Tech Stack:
 
+### Cybersécurité
+![Nmap](https://img.shields.io/badge/Nmap-%23007ACC.svg?style=for-the-badge&logo=nmap&logoColor=white) 
+![Wireshark](https://img.shields.io/badge/Wireshark-%230081C7.svg?style=for-the-badge&logo=wireshark&logoColor=white) 
+![Metasploit](https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white) 
+![Ghidra](https://img.shields.io/badge/Ghidra-%234C1D6C.svg?style=for-the-badge&logo=ghidra&logoColor=white) 
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-%23D23C18.svg?style=for-the-badge&logo=hashicorp&logoColor=white) 
+![Hashcat](https://img.shields.io/badge/Hashcat-%23000000.svg?style=for-the-badge&logo=hashcat&logoColor=white) 
+![Netcat](https://img.shields.io/badge/Netcat-%234a4a4a.svg?style=for-the-badge&logo=netcat&logoColor=white) 
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-%23000000.svg?style=for-the-badge&logo=kali&logoColor=white)
+
 ### Langages
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
