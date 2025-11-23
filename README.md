@@ -1,6 +1,7 @@
+<div style="text-align:center">
+
 # 💫 About Me:
 💻 Student at Toulouse Ynov Campus<br>🔐 Cybersecurity <br>🌐 Enjoy Web development and 🦠 malware analysis
-
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nino.lfb) 
@@ -83,3 +84,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ewoukouskous&icon=1&color=0)](https://visitcount.itsvg.in)
+</div>
